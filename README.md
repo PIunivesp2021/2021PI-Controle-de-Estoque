@@ -31,6 +31,7 @@ O projeto foi desenvolvido através da necessidade da organização e informatiz
 >> O Software foi elaborado com a linguagem de programação Python, o banco de dados utilizado foi o SQLite3 e o framework web Django.
 
 >> Vídeo de apresentação do Projeto Integrador < https://youtu.be/Gh3J8OzsSG0 > 
+
 >> Link da aplicação: https://controle-de-estoque-pi.herokuapp.com/ 
 
 
