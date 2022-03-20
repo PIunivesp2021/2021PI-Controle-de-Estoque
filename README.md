@@ -1,17 +1,5 @@
 # CONTROLE DE ESTOQUE (CRIAÇÃO E AUTOMATIZAÇÃO DO ESTOQUE EMPRESARIAL)
 
-### Alunos:
-
-Alexandre Matos RA: 2014995 
-
-Bianca Karoline RA: 2007770
-
-Michelle Bastos RA: 3025063
-
-Ramon Ribeiro RA: 2009341
-
-Renato B. Lopes RA: 2004058
-
 ## Objetivo
 
 O Projeto Integrador  I tem  como  objetivo o desenvolvimento  de  um  software  com  framework web  que  utilize  noções  de  banco  de  dados, praticando  controle  de  versão.
@@ -34,7 +22,17 @@ O projeto foi desenvolvido através da necessidade da organização e informatiz
 
 >> Link da aplicação: https://controle-de-estoque-pi.herokuapp.com/ 
 
+### Alunos Envolvidos no projeto:
 
+Alexandre Matos RA: 2014995 
+
+Bianca Karoline RA: 2007770
+
+Michelle Bastos RA: 3025063
+
+Ramon Ribeiro RA: 2009341
+
+Renato B. Lopes RA: 2004058
 
 
 
