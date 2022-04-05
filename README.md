@@ -16,7 +16,7 @@ Através de conversas e reuniões com o grupo, foi decidido desenvolvermos uma a
 
 O projeto foi desenvolvido através da necessidade da organização e informatização do setor de estoque de uma empresa do ramo têxtil, onde todo processo de trabalho era feito com a utilização de papeis para as anotações desde o processo de produção, estoque e despacho para os clientes. Foi desenvolvido um software web de gestão e controle de estoque, para facilitar e unir de forma digital todas as informações decorrentes a esses processos no cotidiano do trabalho da empresa, eliminando o uso excessivo de papel.
 
->> O Software foi elaborado com a linguagem de programação Python, o banco de dados utilizado foi o SQLite3 e o framework web Django.
+>> O Software foi elaborado com a linguagem de programação Python, o banco de dados utilizado foi o Mysql e o framework web Django.
 
 >> Vídeo de apresentação do Projeto Integrador < https://youtu.be/Gh3J8OzsSG0 > 
 
