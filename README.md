@@ -37,6 +37,12 @@ O projeto foi desenvolvido através da necessidade da organização e informatiz
 ☛ Hospedagem:  <br>
 -Heroku <br>
 
+Observações: 
+
+-Para ativar o ambiente virtual através do Windows é necessário ter instalado a versão de Python 3 e o django.
+-Para ativar o ambiente no SO win é necessário realizar os seguintes comandos dentro da pasta do projeto: 
+  * cd venv
+  * Scripts\activate  
 ----
 #### ◼️ ◻️ Vídeo de apresentação do Projeto Integrador <https://www.youtube.com/watch?v=FEANw1ZmVhc> 
 
