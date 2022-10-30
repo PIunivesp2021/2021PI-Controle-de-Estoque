@@ -43,6 +43,7 @@ Observações:
   * cd venv (Para iniciar o ambiente virtual)
   * Scripts\activate (Para ativar o ambiente virtual) 
   * Scripts\deactivate (Para encerrar o ambiente virtual)
+  * Instalar o djago com o comando: pip install django
 ----
 #### ◼️ ◻️ Vídeo de apresentação do Projeto Integrador <https://www.youtube.com/watch?v=FEANw1ZmVhc> 
 
