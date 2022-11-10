@@ -44,6 +44,7 @@ Observações:
   * Scripts\activate (Para ativar o ambiente virtual) 
   * Scripts\deactivate (Para encerrar o ambiente virtual)
   * Instalar o djago com o comando: pip install django
+  Para rodar a aplicação utilize o comando: python manage.py runserver
 ----
 #### ◼️ ◻️ Vídeo de apresentação do Projeto Integrador <https://www.youtube.com/watch?v=FEANw1ZmVhc> 
 
