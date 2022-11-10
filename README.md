@@ -40,9 +40,7 @@ O projeto foi desenvolvido através da necessidade da organização e informatiz
 Observações: 
 
 - Para ativar o ambiente virtual através do Windows é necessário ter instalado a versão de Python 3 . Para ativar o ambiente no SO win é necessário realizar os seguintes comandos dentro da pasta do projeto: 
-  * cd venv (Para iniciar o ambiente virtual)
-  * Scripts\activate (Para ativar o ambiente virtual) 
-  * Scripts\deactivate (Para encerrar o ambiente virtual)
+ 
   * Instalar o djago com o comando: pip install django
   * Para rodar a aplicação utilize o comando: python manage.py runserver
 ----
