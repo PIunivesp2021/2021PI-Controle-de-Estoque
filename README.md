@@ -42,7 +42,9 @@ Observações:
 - Para ativar o ambiente virtual através do Windows é necessário ter instalado a versão de Python 3 . Para ativar o ambiente no SO win é necessário realizar os seguintes comandos: 
  
   * Instalar o djago com o comando: pip install django
+  *Crie um ambiente virtual Python para conseguir conectar ao projeto. Veja aqui como criar: https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv
   * Para rodar a aplicação utilize o comando dentro do projeto: python manage.py runserver
+ 
 ----
 #### ◼️ ◻️ Vídeo de apresentação do Projeto Integrador <https://www.youtube.com/watch?v=FEANw1ZmVhc> 
 
