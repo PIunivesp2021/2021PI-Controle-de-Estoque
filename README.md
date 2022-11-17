@@ -43,6 +43,7 @@ Observações:
  
   * Instalar o djago com o comando: pip install django
   *Crie um ambiente virtual Python para conseguir conectar ao projeto. Veja aqui como criar: https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv
+  * Instale as dependências do requirements: pip install -r requirements.txt
   * Para rodar a aplicação utilize o comando dentro do projeto: python manage.py runserver
  
 ----
