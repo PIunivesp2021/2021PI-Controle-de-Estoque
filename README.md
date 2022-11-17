@@ -44,6 +44,7 @@ Observações:
   * Instalar o djago com o comando: pip install django
   *Crie um ambiente virtual Python para conseguir conectar ao projeto. Veja aqui como criar: https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv
   * Instale as dependências do requirements: pip install -r requirements.txt
+  * Para Iniciar o docker: docker-compose up -d. Obs:> Se tiver dúvidas de como instalar o docker assista esses vídeos: https://www.youtube.com/watch?v=k8H0KCtsTR8 e esse https://www.youtube.com/watch?v=nOSi18npZJw
   * Para rodar a aplicação utilize o comando dentro do projeto: python manage.py runserver
  
 ----
